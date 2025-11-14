@@ -1,4 +1,3 @@
-你做得很好，现在我们的代码是这样子的：
 import struct
 import os
 import tkinter as tk
